@@ -1,3 +1,27 @@
+<footer class="container alert-info py-5 text-center">
+    <div class="row">
+        <div class="col-4">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">ig</li>
+                <li class="list-group-item">git</li>
+            </ul>
+        </div>
+
+        <div class="col-4">
+            <img src="https://placehold.it/70x70" alt="">
+        </div>
+
+        <div class="col-4">
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">face</li>
+                <li class="list-group-item">tele</li>
+            </ul>
+        </div>
+    </div>
+</footer>
+
+
+
 
 
 <!-- jQuery -->

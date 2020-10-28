@@ -17,15 +17,14 @@
     <title>Portifólio</title>
 </head>
 
-<body>
-    <header class="container alert-info">
-        <div class="row">
-            <div class="col-4 py-3">
-                <img src="public/img/eu2.jpg" class="img-fluid rounded-circle" alt="">
-            </div>
-            <div class="col-8 text-center py-3">
-                <h1>Portifólio</h1>
-            </div>
+
+<header class="container alert-info py-5">
+    <div class="row">
+        <div class="col-4 py-3">
+            <img src="public/img/eu2.jpg" class="img-fluid rounded-circle" alt="">
         </div>
-    </header>
-</body>
+        <div class="col-8 text-center py-3">
+            <h1>Portifólio</h1>
+        </div>
+    </div>
+</header>
