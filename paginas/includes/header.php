@@ -28,9 +28,7 @@
     </header>
 
     <div class="container border border-dark py-3 text-center">
-        <a href="#">
-            <button type="button" class="btn btn-secondary py-2">Portifólio</button>
-        </a>
+        <a href="#" class="btn btn-secondary py-2">Portifólio </a>
         <a href="#">
             <button type="button" class="btn btn-secondary py-2">Tecnologias</button>
         </a>
