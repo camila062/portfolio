@@ -1,4 +1,4 @@
-<footer class="container alert-info py-3 text-center border border-dark">
+<footer class="container py-3 text-center border border-dark">
 <a href="https://www.instagram.com/camila_lidia/?hl=pt-br">
 
     <img src="public/img/ig-.png" alt="">
