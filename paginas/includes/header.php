@@ -12,19 +12,37 @@
     <link rel="stylesheet" href="public/fonts/icomoon/icomoon.css">
 
     <!-- meu css -->
-
+    <link rel="stylesheet" href="public/css/meucss.css">
 
     <title>Portifólio</title>
 </head>
 
+<body>
 
-<header class="container alert-info py-5">
-    <div class="row">
-        <div class="col-4 py-3">
-            <img src="public/img/eu2.jpg" class="img-fluid rounded-circle" alt="">
-        </div>
-        <div class="col-8 text-center py-3">
-            <h1>Portifólio</h1>
-        </div>
+<br>
+
+    <header class="container border border-dark">
+
+        <img src="public/img/escritório1.jpg" class="img-fluid" alt="">
+
+    </header>
+
+    <div class="container border border-dark py-3 text-center">
+        <a href="#">
+            <button type="button" class="btn btn-secondary py-2">Portifólio</button>
+        </a>
+        <a href="#">
+            <button type="button" class="btn btn-secondary py-2">Tecnologias</button>
+        </a>
+        <a href="#">
+            <button type="button" class="btn btn-secondary py-2">Projetos</button>
+        </a>
+        <a href="#">
+            <button type="button" class="btn btn-secondary py-2">Outros</button>
+        </a>
+
     </div>
-</header>
+
+    <div class="menu container border border-dark py-3 text-center">
+        <h2>PORTIFÓLIO</h2>
+    </div>

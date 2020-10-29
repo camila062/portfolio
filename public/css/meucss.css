@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "plin";
+    src: url(../fonts/riesling.ttf);
+}
+
+@font-face {
+    font-family: "rose";
+    src: url(../fonts/Bellerose.ttf);
+}
+
+@font-face {
+    font-family: "menu";
+    src: url(../fonts/BADUY.otf);
+}
+
+h2 {
+    font-family: "rose";
+}
+
+body {
+    background-image: url(../img/watercolor.png);
+}
