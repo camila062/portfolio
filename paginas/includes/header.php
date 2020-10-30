@@ -14,7 +14,7 @@
     <!-- meu css -->
     <link rel="stylesheet" href="public/css/meucss.css">
 
-    <title>Portfólio</title>
+    <title>Portfólio Camila</title>
 </head>
 
 <body>
@@ -23,12 +23,12 @@
 
     <header class="container border border-dark">
 
-        <img src="public/img/escritório1.jpg" class="img-fluid" alt="">
+        <img src="public/img/escritório2.jpg" class="img-fluid" alt="">
 
     </header>
 
     <div class="container border border-dark py-3 text-center">
-        <a href="#" class="btn btn-secondary py-2">Portifólio </a>
+        <a href="#" class="btn btn-secondary py-2">Portfólio </a>
         <a href="#">
             <button type="button" class="btn btn-secondary py-2">Tecnologias</button>
         </a>
