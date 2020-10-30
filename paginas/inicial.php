@@ -26,7 +26,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Currículo</h5>
                     <p class="card-text"></p>
-                    <a href="#" class="btn btn-primary">Visitar</a>
+                    <a href="curriculo.php?pg=inicial" class="btn btn-primary">Visitar</a>
                 </div>
             </div>
         </div>

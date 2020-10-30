@@ -1,0 +1,14 @@
+
+.noBackground{
+    background-color: transparent;
+    font-weight: bold;
+    font-style: italic;    
+}
+.post{
+    margin-bottom: 15px;   
+}
+
+.posts{
+    height: 400px;
+    overflow: auto;
+}
