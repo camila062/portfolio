@@ -14,7 +14,7 @@
     <!-- meu css -->
     <link rel="stylesheet" href="public/css/meucss.css">
 
-    <title>Portifólio</title>
+    <title>Portfólio</title>
 </head>
 
 <body>
@@ -42,5 +42,5 @@
     </div>
 
     <div class="menu container border border-dark py-3 text-center">
-        <h2>PORTIFÓLIO</h2>
+        <h2>PORTFÓLIO</h2>
     </div>
