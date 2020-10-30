@@ -16,7 +16,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Gossip Girl's</h5>
                     <p class="card-text"></p>
-                    <a href="#" class="btn btn-primary">Visitar</a>
+                    <a href="gossip.php?pg=inicial" class="btn btn-primary">Visitar</a>
                 </div>
             </div>
         </div>

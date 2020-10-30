@@ -1,0 +1,56 @@
+@font-face {
+    font-family: "plin";
+    src: url(../fonts/riesling.ttf);
+}
+
+@font-face {
+    font-family: "rose";
+    src: url(../fonts/Bellerose.ttf);
+}
+
+header {
+    background-image: url(../img/ouro-rosa.jpg);
+}
+
+footer {
+    background-image: url(../img/ouro-rosa.jpg);
+}
+
+.menu {
+    background-image: url(../img/-desfoque1.jpg);
+    background-size: 100%;
+    font-family: "rose";
+}
+
+h1 {
+    font-family: "plin";
+    font-size: 80px;
+}
+
+.menu .card {
+    background-color: transparent;
+}
+
+@font-face {
+    font-family: ".menu";
+    src: url(../fonts/BADUY.otf);
+}
+
+@font-face {
+    font-family: "qualquer";
+    src: url(../fonts/Bellerose.ttf);
+}
+
+.list-group-item {
+    background: transparent;
+    font-family: "qualquer";
+}
+
+ul a {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.caixa .card {
+    background-color: transparent;
+}
