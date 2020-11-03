@@ -6,7 +6,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Site de Compras</h5>
                     <p class="card-text"></p>
-                    <a href="#" class="btn btn-primary">Visitar</a>
+                    <a href="site.php?pg=inicial" class="btn btn-primary">Visitar</a>
                 </div>
             </div>
         </div>
