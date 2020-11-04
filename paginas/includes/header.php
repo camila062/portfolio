@@ -29,7 +29,7 @@
 
     <div class="container border border-dark py-3 text-center">
         <a href="#" class="btn btn-secondary py-2">Portfólio </a>
-        <a href="#">
+        <a href="index.php?pg=tecnologia">
             <button type="button" class="btn btn-secondary py-2">Tecnologias</button>
         </a>
         <a href="#">

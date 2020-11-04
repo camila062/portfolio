@@ -9,6 +9,9 @@ if ($paginas) {
         case 'inicial':
             include_once "paginas/inicial.php";
             break;
+        case 'tecnologia':
+            include_once "paginas/tecnologia.php";
+            break;
 
         default:
             # code...
