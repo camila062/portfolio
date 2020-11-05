@@ -9,6 +9,16 @@
 }
 
 @font-face {
+    font-family: "king";
+    src: url(../fonts/\ Kind\ and\ Rich\ -\ Personal\ Use.otf);
+}
+
+@font-face {
+    font-family: "leg";
+    src: url(../fonts/Legends.ttf);
+}
+
+@font-face {
     font-family: "menu";
     src: url(../fonts/BADUY.otf);
 }

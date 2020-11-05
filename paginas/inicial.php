@@ -6,7 +6,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Site de Compras</h5>
                     <p class="card-text"></p>
-                    <a href="site.php?pg=inicial" class="btn btn-primary">Visitar</a>
+                    <a href="site.php?pg=inicial" target="blank" class="btn btn-primary">Visitar</a>
                 </div>
             </div>
         </div>
@@ -16,7 +16,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Gossip Girl's</h5>
                     <p class="card-text"></p>
-                    <a href="gossip.php?pg=inicial" class="btn btn-primary">Visitar</a>
+                    <a href="gossip.php?pg=inicial"  target="blank" class="btn btn-primary">Visitar</a>
                 </div>
             </div>
         </div>
@@ -26,7 +26,7 @@
                 <div class="card-body">
                     <h5 class="card-title">Currículo</h5>
                     <p class="card-text"></p>
-                    <a href="curriculo.php?pg=inicial" class="btn btn-primary">Visitar</a>
+                    <a href="curriculo.php?pg=inicial"  target="blank" class="btn btn-primary">Visitar</a>
                 </div>
             </div>
         </div>

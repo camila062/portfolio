@@ -19,7 +19,7 @@
 
 <body>
 
-<br>
+    <br>
 
     <header class="container border border-dark">
 
@@ -28,16 +28,14 @@
     </header>
 
     <div class="container border border-dark py-3 text-center">
-        <a href="#" class="btn btn-secondary py-2">Portfólio </a>
-        <a href="index.php?pg=tecnologia">
-            <button type="button" class="btn btn-secondary py-2">Tecnologias</button>
-        </a>
-        <a href="#">
-            <button type="button" class="btn btn-secondary py-2">Projetos</button>
-        </a>
-        <a href="#">
-            <button type="button" class="btn btn-secondary py-2">Outros</button>
-        </a>
+
+        <a href="index.php?pg=inicial" class="btn btn-secondary py-2">Portfólio </a>
+
+        <a href="index.php?pg=tecnologia" class="btn btn-secondary py-2">Tecnologias</a>
+
+        <a href="index.php?pg=projetos" class="btn btn-secondary py-2">Projetos</a>
+
+        <a href="#" class="btn btn-secondary py-2">Outros</a>
 
     </div>
 

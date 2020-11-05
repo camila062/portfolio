@@ -12,6 +12,9 @@ if ($paginas) {
         case 'tecnologia':
             include_once "paginas/tecnologia.php";
             break;
+        case 'projetos':
+            include_once "paginas/projetos.php";
+            break;
 
         default:
             # code...
