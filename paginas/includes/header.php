@@ -35,7 +35,7 @@
 
         <a href="index.php?pg=projetos" class="btn btn-secondary py-2">Projetos</a>
 
-        <a href="#" class="btn btn-secondary py-2">Outros</a>
+        <a href="index.php?pg=outros" class="btn btn-secondary py-2">Outros</a>
 
     </div>
 

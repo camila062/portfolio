@@ -1,4 +1,4 @@
-<div class="container text-center py-3">
+<div class="container text-center border border-dark py-3">
 
     <hr>
     <h1 style="font-family: rose;">Áreas que tenho conhecimento</h1>

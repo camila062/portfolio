@@ -15,6 +15,9 @@ if ($paginas) {
         case 'projetos':
             include_once "paginas/projetos.php";
             break;
+        case 'outros':
+            include_once "paginas/outros.php";
+            break;
 
         default:
             # code...
