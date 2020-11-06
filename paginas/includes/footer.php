@@ -1,7 +1,7 @@
 <footer class="container py-3 text-center border border-dark">
 <a href="https://www.instagram.com/camila_lidia/?hl=pt-br">
 
-    <img src="public/img/ig-.png" alt="">
+    <img src="public/img/ig-.png" target="blank" alt="">
 
 </a>
 
