@@ -6,15 +6,19 @@ $paginas = isset($_GET['pg']);
 
 if ($paginas) {
     switch ($_GET['pg']) {
+
         case 'inicial':
             include_once "paginas/inicial.php";
             break;
+
         case 'tecnologia':
             include_once "paginas/tecnologia.php";
             break;
+
         case 'projetos':
             include_once "paginas/projetos.php";
             break;
+            
         case 'outros':
             include_once "paginas/outros.php";
             break;

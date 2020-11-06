@@ -6,7 +6,7 @@
 
     <div class="card-columns">
         <div class="card">
-            <img class="" src="public/img/insatiable1.jpg" alt="Imagem de capa do card">
+            <img class="" src="public/img/Insatiable1.jpg" alt="Imagem de capa do card">
             <div class="card-body">
                 <h5 class="card-title">Insatiable</h5>
                 <p class="lead">Insatiable é uma série de televisão norte-americana original Netflix de humor ácido, criada por Lauren Gussis. A série estreou em 10 de agosto de 2018 e é composta por 12 episódios. Em 12 de setembro de 2018, a série foi renovada para a segunda temporada, lançada em 11 de outubro de 2019.</p>
@@ -20,7 +20,7 @@
         </div>
 
         <div class="card">
-            <img class="" src="public/img/atypical.jpg" alt="Imagem de capa do card">
+            <img class="" src="public/img/Atypical1.jpg" alt="Imagem de capa do card">
             <div class="card-body">
                 <h5 class="card-title">Atypical</h5>
                 <p class="lead">Atypical é uma série norte-americana de comédia dramática original Netflix, criada e escrita por Robia Rashid, que conta a história de um rapaz de 18 anos, diagnosticado dentro do espectro do autismo, que trabalha e estuda, vivendo a efervescência da idade e seu amadurecimento.</p>
